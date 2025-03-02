@@ -64,7 +64,7 @@ pip install unsloth
 
 ### Training Process
 
-Training code and hyperparameters can be found in the training notebooks.
+Training code and hyperparameters can be found in the training notebooks. During training, the loss was reduced from approximately 2.8 to 1.5, showing significant model improvement.
 
 ## Project Structure
 
